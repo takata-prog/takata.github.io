@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Closing...</title>
+</head>
+<body>
+  <p>このページは自動的に閉じられます。 This page will close automatically.</p>
+  <script>
+    // ページが表示されたら、すぐに自身を閉じる
+    window.close();
+  </script>
+</body>
+</html>
